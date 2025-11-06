@@ -1,0 +1,7 @@
+[
+  {
+    "label": "setup zephyr project (create .clangd)",
+    "command": "bash $env:APPDATA\\Zed\\scripts\\setup_zephyr_project_for_zed.sh $ZED_WORKTREE_ROOT",
+    "reveal_target": "center"
+  }
+]
