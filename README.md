@@ -1,5 +1,5 @@
 # How-to
-This guide allows you to open zed in the correct environment and have a working LSP for the C/C++ code of your project. Due to the current limitation of Zed in matter of LSP you will need to run a script once at the start of your project so that clangd will work somewhat properly while still using gcc/g++ as a compiler.
+This guide allows you to open Zed in the correct environment and have a working LSP for the C/C++ code of your project. Due to the current limitation of Zed in matter of LSP you will need to run a script once at the start of your project so that clangd will work somewhat properly while still using gcc/g++ as a compiler.
 
 ## Windows
 1. Install Zed - [link](https://zed.dev/windows)
